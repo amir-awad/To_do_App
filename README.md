@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
  
  Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://https://user-images.githubusercontent.com/94145850/161749750-67aa8109-ab58-4db4-97ed-9069af788972.png)  |  ![](https://...Ocean.png)
+![](https://https://user-images.githubusercontent.com/94145850/161749750-67aa8109-ab58-4db4-97ed-9069af788972.png)  |  ![](https:file:///C:/Users/AHMED%20OSAMA/OneDrive/Desktop/Screenshot_1649160578.png)
 
 
 
