@@ -17,8 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/94145850/161749750-67aa8109-ab58-4db4-97ed-9069af788972.png" width="100" />
-  <img src="https:file:///C:/Users/AHMED%20OSAMA/OneDrive/Desktop/Screenshot_1649160578.png" width="100" /> 
-  <img src="file:///C:/Users/AHMED%20OSAMA/OneDrive/Desktop/Screenshot_1649160854.png" width="100" />
+  <img src="https://user-images.githubusercontent.com/94145850/161751500-9dd3d2d6-c84e-46d4-ba33-64b027146460.png" width="100" /> 
+  <img src="https://user-images.githubusercontent.com/94145850/161751485-63ab1726-8368-4f4b-8603-8ed583a5a973.png" width="100" />
 </p>
 
 
@@ -37,18 +37,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-
-
-
-
-
-<!-- <p align="center">
-<img src="https://user-images.githubusercontent.com/94145850/161749750-67aa8109-ab58-4db4-97ed-9069af788972.png" width="400" height="900" />
- </p>
- 
- Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://https://user-images.githubusercontent.com/94145850/161749750-67aa8109-ab58-4db4-97ed-9069af788972.png)  |  ![](https:file:///C:/Users/AHMED%20OSAMA/OneDrive/Desktop/Screenshot_1649160578.png)
- -->
 
 
