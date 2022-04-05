@@ -16,6 +16,10 @@ samples, guidance on mobile development, and a full API reference.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/94145850/161749750-67aa8109-ab58-4db4-97ed-9069af788972.png" width="400" height="900" />
  </p>
+ 
+ Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://https://user-images.githubusercontent.com/94145850/161749750-67aa8109-ab58-4db4-97ed-9069af788972.png)  |  ![](https://...Ocean.png)
 
 
 
