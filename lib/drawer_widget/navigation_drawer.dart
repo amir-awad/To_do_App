@@ -55,7 +55,7 @@ class NavigationDrawer extends StatelessWidget {
                 height: 10,
               ),
               DrawerItem(
-                  name: "setting",
+                  name: "settings",
                   icon: Icons.settings,
                   onpressed: () => onItemPressed(context, index: 4)),
             ],
